@@ -14,7 +14,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "TD_PERIOD";
             #binding-cells = <0>;
-            tapping-term-ms = <190>;
+            tapping-term-ms = <200>;
             bindings = <&kp SPACE>, <&kp PERIOD>;
         };
 
